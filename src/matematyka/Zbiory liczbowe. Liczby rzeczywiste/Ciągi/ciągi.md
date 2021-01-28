@@ -31,4 +31,4 @@ $ S_n = \left\{\begin{matrix} a_1 \cdot \frac{1-q^n}{1-q} & dla & q\neq 1 \\ n \
 
 Między sąsiednimi wyrazami ciągu geometrycznego zachodzi związek:
 
-a_n^2 = a_{n-1} \cdot a_{n+1}
+$ a_n^2 = a_{n-1} \cdot a_{n+1} $

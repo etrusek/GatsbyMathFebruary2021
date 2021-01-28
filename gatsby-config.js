@@ -26,6 +26,7 @@ module.exports = {
         path: `${__dirname}/src/matematyka`,
       },
     },
+    `gatsby-plugin-catch-links`,
     {
       resolve: `gatsby-transformer-remark`,
       options: {
