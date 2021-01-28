@@ -1,0 +1,141 @@
+<svg width="900" height="900" xmlns="http://www.w3.org/2000/svg">
+  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+  <g>
+    <g>
+      <g>
+        <title>oś X</title>
+        <line id="os_OX" stroke="#000" y2="500" x2="900" y1="500" x1="0" stroke-width="5" />
+        <line id="strzalka_os_ox_dol" y2="500" x2="900" y1="530" x1="870" stroke-width="5" stroke="#000" />
+        <line id="strzalka_os_ox_gora" y2="500" x2="900" y1="470" x1="870" stroke-width="5" stroke="#000" />
+        <g>
+          <title>oznakowanie osi X</title>
+          <line id="poziomo_01" stroke="#000" y2="50" x2="900" y1="50" x1="0" />
+          <line id="poziomo_02" stroke="#000" y2="100" x2="440" y1="100" x1="460" stroke-width="5" />
+          <line id="poziomo_03" stroke="#000" y2="150" x2="440" y1="150" x1="460" stroke-width="5" />
+          <line id="poziomo_04" stroke="#000" y2="200" x2="440" y1="200" x1="460" stroke-width="5" />
+          <line id="poziomo_05" stroke="#000" y2="250" x2="440" y1="250" x1="460" stroke-width="5" />
+          <line id="poziomo_06" stroke="#000" y2="300" x2="440" y1="300" x1="460" stroke-width="5" />
+          <line id="poziomo_07" stroke="#000" y2="350" x2="440" y1="350" x1="460" stroke-width="5" />
+          <line id="poziomo_08" stroke="#000" y2="400" x2="440" y1="400" x1="460" stroke-width="5" />
+          <line id="poziomo_09" stroke="#000" y2="450" x2="440" y1="450" x1="460" stroke-width="5" />
+          <line id="poziomo_11" stroke="#000" y2="550" x2="440" y1="550" x1="460" stroke-width="5" />
+          <line id="poziomo_12" stroke="#000" y2="600" x2="440" y1="600" x1="460" stroke-width="5" />
+          <line id="poziomo_13" stroke="#000" y2="650" x2="440" y1="650" x1="460" stroke-width="5" />
+          <line id="poziomo_14" stroke="#000" y2="700" x2="440" y1="700" x1="460" stroke-width="5" />
+          <line id="poziomo_15" stroke="#000" y2="750" x2="440" y1="750" x1="460" stroke-width="5" />
+          <line id="poziomo_16" stroke="#000" y2="800" x2="440" y1="800" x1="460" stroke-width="5" />
+          <line id="poziomo_17" stroke="#000" y2="850" x2="440" y1="850" x1="460" stroke-width="5" />
+          <line id="poziomo_18" stroke="#000" y2="897" x2="440" y1="897" x1="460" stroke-width="5" />
+          <text id="text_OX" font-size="20" y="530" x="-5" stroke="#000" fill="#000000">-9</text>
+          <text id="text_OX" font-size="20" y="530" x="40" stroke="#000" fill="#000000">-8</text>
+          <text id="text_OX" font-size="20" y="530" x="90" stroke="#000" fill="#000000">-7</text>
+          <text id="text_OX" font-size="20" y="530" x="140" stroke="#000" fill="#000000">-6</text>
+          <text id="text_OX" font-size="20" y="530" x="190" stroke="#000" fill="#000000">-5</text>
+          <text id="text_OX" font-size="20" y="530" x="240" stroke="#000" fill="#000000">-4</text>
+          <text id="text_OX" font-size="20" y="530" x="290" stroke="#000" fill="#000000">-3</text>
+          <text id="text_OX" font-size="20" y="530" x="340" stroke="#000" fill="#000000">-2</text>
+          <text id="text_OX" font-size="20" y="530" x="390" stroke="#000" fill="#000000">-1</text>
+          <text id="text_OX" font-size="20" y="530" x="445" stroke="#000" fill="#000000">0</text>
+          <text id="text_OX" font-size="20" y="530" x="495" stroke="#000" fill="#000000">1</text>
+          <text id="text_OX" font-size="20" y="530" x="545" stroke="#000" fill="#000000">2</text>
+          <text id="text_OX" font-size="20" y="530" x="595" stroke="#000" fill="#000000">3</text>
+          <text id="text_OX" font-size="20" y="530" x="645" stroke="#000" fill="#000000">4</text>
+          <text id="text_OX" font-size="20" y="530" x="695" stroke="#000" fill="#000000">5</text>
+          <text id="text_OX" font-size="20" y="530" x="745" stroke="#000" fill="#000000">6</text>
+          <text id="text_OX" font-size="20" y="530" x="795" stroke="#000" fill="#000000">7</text>
+          <text id="text_OX" font-size="20" y="530" x="845" stroke="#000" fill="#000000">8</text>
+          <text id="text_OX" font-size="20" y="530" x="890" stroke="#000" fill="#000000">9</text>
+        </g>
+      </g>
+      <g>
+        <title>oś Y</title>
+        <line id="os_OY" stroke="#000" x1="450" y1="0" x2="450" y2="900" stroke-width="5" />
+        <line id="strzalka_os_oy-prawo" y2="0" x2="450" y1="30" x1="480" stroke-width="5" stroke="#000" />
+        <line id="strzalka_os_oy-lewo" y2="0" x2="450" y1="30" x1="420" stroke-width="5" stroke="#000" />
+        <g>
+          <title>oznakowanie osi Y</title>
+          <line id="pionowo_01" stroke="#000" x1="1" y1="490" x2="1" y2="510" stroke-width="5" />
+          <line id="pionowo_02" stroke="#000" x1="50" y1="490" x2="50" y2="510" stroke-width="5" />
+          <line id="pionowo_03" stroke="#000" x1="100" y1="490" x2="100" y2="510" stroke-width="5" />
+          <line id="pionowo_04" stroke="#000" x1="150" y1="490" x2="150" y2="510" stroke-width="5" />
+          <line id="pionowo_04" stroke="#000" x1="200" y1="490" x2="200" y2="510" stroke-width="5" />
+          <line id="pionowo_05" stroke="#000" x1="250" y1="490" x2="250" y2="510" stroke-width="5" />
+          <line id="pionowo_06" stroke="#000" x1="300" y1="490" x2="300" y2="510" stroke-width="5" />
+          <line id="pionowo_07" stroke="#000" x1="350" y1="490" x2="350" y2="510" stroke-width="5" />
+          <line id="pionowo_08" stroke="#000" x1="400" y1="490" x2="400" y2="510" stroke-width="5" />
+          <line id="pionowo_09" stroke="#000" x1="500" y1="490" x2="500" y2="510" stroke-width="5" />
+          <line id="pionowo_10" stroke="#000" x1="550" y1="490" x2="550" y2="510" stroke-width="5" />
+          <line id="pionowo_11" stroke="#000" x1="600" y1="490" x2="600" y2="510" stroke-width="5" />
+          <line id="pionowo_12" stroke="#000" x1="650" y1="490" x2="650" y2="510" stroke-width="5" />
+          <line id="pionowo_13" stroke="#000" x1="700" y1="490" x2="700" y2="510" stroke-width="5" />
+          <line id="pionowo_14" stroke="#000" x1="750" y1="490" x2="750" y2="510" stroke-width="5" />
+          <line id="pionowo_15" stroke="#000" x1="800" y1="490" x2="800" y2="510" stroke-width="5" />
+          <line id="pionowo_16" stroke="#000" x1="850" y1="490" x2="850" y2="510" stroke-width="5" />
+          <text id="text_OY" font-size="20" y="900" x="415" stroke="#000" fill="#000000">-9</text>
+          <text id="text_OY" font-size="20" y="530" x="415" stroke="#000" fill="#000000">-8</text>
+          <text id="text_OY" font-size="20" y="530" x="415" stroke="#000" fill="#000000">-7</text>
+          <text id="text_OY" font-size="20" y="530" x="415" stroke="#000" fill="#000000">-6</text>
+          <text id="text_OY" font-size="20" y="530" x="415" stroke="#000" fill="#000000">-5</text>
+          <text id="text_OY" font-size="20" y="530" x="415" stroke="#000" fill="#000000">-4</text>
+          <text id="text_OY" font-size="20" y="530" x="415" stroke="#000" fill="#000000">-3</text>
+          <text id="text_OY" font-size="20" y="530" x="415" stroke="#000" fill="#000000">-2</text>
+          <text id="text_OY" font-size="20" y="530" x="415" stroke="#000" fill="#000000">-1</text>
+          <text id="text_OY" font-size="20" y="530" x="415" stroke="#000" fill="#000000">0</text>
+          <text id="text_OY" font-size="20" y="530" x="415" stroke="#000" fill="#000000">1</text>
+          <text id="text_OY" font-size="20" y="530" x="415" stroke="#000" fill="#000000">2</text>
+          <text id="text_OY" font-size="20" y="530" x="415" stroke="#000" fill="#000000">3</text>
+          <text id="text_OY" font-size="20" y="530" x="415" stroke="#000" fill="#000000">4</text>
+          <text id="text_OY" font-size="20" y="530" x="415" stroke="#000" fill="#000000">5</text>
+          <text id="text_OY" font-size="20" y="530" x="415" stroke="#000" fill="#000000">6</text>
+          <text id="text_OY" font-size="20" y="530" x="415" stroke="#000" fill="#000000">7</text>
+          <text id="text_OY" font-size="20" y="530" x="415" stroke="#000" fill="#000000">8</text>
+          <text id="text_OY" font-size="20" y="530" x="415" stroke="#000" fill="#000000">9</text>
+        </g>
+      </g>
+    </g>
+
+    <g>
+      <title>linie siatki przerywane pionowe</title>
+      <line id="pionowo_00" stroke="#000" stroke-dasharray="5,5" x1="1" y1="0" x2="1" y2="900" />
+      <line id="pionowo_01" stroke="#000" stroke-dasharray="5,5" x1="50" y1="0" x2="50" y2="900" />
+      <line id="pionowo_02" stroke="#000" stroke-dasharray="5,5" x1="100" y1="0" x2="100" y2="900" />
+      <line id="pionowo_03" stroke="#000" stroke-dasharray="5,5" x1="150" y1="0" x2="150" y2="900" />
+      <line id="pionowo_04" stroke="#000" stroke-dasharray="5,5" x1="200" y1="0" x2="200" y2="900" />
+      <line id="pionowo_05" stroke="#000" stroke-dasharray="5,5" x1="250" y1="0" x2="250" y2="900" />
+      <line id="pionowo_06" stroke="#000" stroke-dasharray="5,5" x1="300" y1="0" x2="300" y2="900" />
+      <line id="pionowo_07" stroke="#000" stroke-dasharray="5,5" x1="350" y1="0" x2="350" y2="900" />
+      <line id="pionowo_08" stroke="#000" stroke-dasharray="5,5" x1="400" y1="0" x2="400" y2="900" />
+      <line id="pionowo_09" stroke="#000" stroke-dasharray="5,5" x1="500" y1="0" x2="500" y2="900" />
+      <line id="pionowo_10" stroke="#000" stroke-dasharray="5,5" x1="550" y1="0" x2="550" y2="900" />
+      <line id="pionowo_11" stroke="#000" stroke-dasharray="5,5" x1="600" y1="0" x2="600" y2="900" />
+      <line id="pionowo_12" stroke="#000" stroke-dasharray="5,5" x1="650" y1="0" x2="650" y2="900" />
+      <line id="pionowo_13" stroke="#000" stroke-dasharray="5,5" x1="700" y1="0" x2="700" y2="900" />
+      <line id="pionowo_14" stroke="#000" stroke-dasharray="5,5" x1="750" y1="0" x2="750" y2="900" />
+      <line id="pionowo_15" stroke="#000" stroke-dasharray="5,5" x1="800" y1="0" x2="800" y2="900" />
+      <line id="pionowo_16" stroke="#000" stroke-dasharray="5,5" x1="850" y1="0" x2="850" y2="900" />
+      <line id="pionowo_17" stroke="#000" stroke-dasharray="5,5" x1="899" y1="0" x2="899" y2="900" />
+    </g>
+
+    <g>
+      <title>linie siatki przerywane poziome</title>
+      <line id="poziomo_00" stroke-dasharray="5,5" stroke="#000" y2="1" x2="900" y1="1" x1="0" />
+      <line id="poziomo_01" stroke-dasharray="5,5" stroke="#000" y2="50" x2="900" y1="50" x1="0" />
+      <line id="poziomo_02" stroke-dasharray="5,5" stroke="#000" y2="100" x2="900" y1="100" x1="0" />
+      <line id="poziomo_03" stroke-dasharray="5,5" stroke="#000" y2="150" x2="900" y1="150" x1="0" />
+      <line id="poziomo_04" stroke-dasharray="5,5" stroke="#000" y2="200" x2="900" y1="200" x1="0" />
+      <line id="poziomo_05" stroke-dasharray="5,5" stroke="#000" y2="250" x2="900" y1="250" x1="0" />
+      <line id="poziomo_06" stroke-dasharray="5,5" stroke="#000" y2="300" x2="900" y1="300" x1="0" />
+      <line id="poziomo_07" stroke-dasharray="5,5" stroke="#000" y2="350" x2="900" y1="350" x1="0" />
+      <line id="poziomo_08" stroke-dasharray="5,5" stroke="#000" y2="400" x2="900" y1="400" x1="0" />
+      <line id="poziomo_09" stroke-dasharray="5,5" stroke="#000" y2="450" x2="900" y1="450" x1="0" />
+      <line id="poziomo_11" stroke-dasharray="5,5" stroke="#000" y2="550" x2="900" y1="550" x1="0" />
+      <line id="poziomo_12" stroke-dasharray="5,5" stroke="#000" y2="600" x2="900" y1="600" x1="0" />
+      <line id="poziomo_13" stroke-dasharray="5,5" stroke="#000" y2="650" x2="900" y1="650" x1="0" />
+      <line id="poziomo_14" stroke-dasharray="5,5" stroke="#000" y2="700" x2="900" y1="700" x1="0" />
+      <line id="poziomo_15" stroke-dasharray="5,5" stroke="#000" y2="750" x2="900" y1="750" x1="0" />
+      <line id="poziomo_16" stroke-dasharray="5,5" stroke="#000" y2="800" x2="900" y1="800" x1="0" />
+      <line id="poziomo_17" stroke-dasharray="5,5" stroke="#000" y2="850" x2="900" y1="850" x1="0" />
+      <line id="poziomo_18" stroke-dasharray="5,5" stroke="#000" y2="899" x2="900" y1="899" x1="0" />
+    </g>
+  </g>
+</svg>
